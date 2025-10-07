@@ -16,7 +16,7 @@ public class Team {
         }
         System.out.println(totalsums);
             
-            
+            in.close();
         }
 
 

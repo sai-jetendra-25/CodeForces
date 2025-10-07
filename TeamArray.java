@@ -15,6 +15,7 @@ public class TeamArray {
             }
         }
         System.out.println(totalSum);
+        in.close();
         
     }
     
