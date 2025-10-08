@@ -7,6 +7,7 @@ public class Domino_piling {
         int s=2*1;
         int DP=(m*n)/s;
         System.out.println(DP);
+        in.close();
 
     }
     
